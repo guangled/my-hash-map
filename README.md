@@ -1,2 +1,2 @@
 # my-hash-map
-My hash map written in Python
+This is a raw version of a hash map written in Python. But the implementation is in Java's strategy including hash code function, bucket index calculation and resizing routine. This strategy distributes the key-value pair in the hash map evenly, avoids collision very well and reduces resizing workload a lot. There still many things to explore and refine in this very important data structure.
